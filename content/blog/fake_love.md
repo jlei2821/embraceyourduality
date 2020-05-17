@@ -99,7 +99,7 @@ and I may add to it later if I missed something. I have so much appreciation for
 everything about this song and thank you BTS for sharing your experiences and
 wisdom with the world. I do think Fake Love is a self-reflective expression made by BTS to their audience. Artists are often more compelled to do things that would please the public. Imagine how daunting it is to be standing in the center of the world’s spotlight, with all eyes on you waiting for you to put your toe out of line. Instead of concealing yourself under a perfect marble-stoned facet, it takes a great amount of courage to disclose a part of yourself to the world and help those who are lost. Let us all remind ourselves that we are precious and special and we all deserve genuine love. 💛
 
-Xoxo,<br/>
+Love,<br/>
 J
 
 
