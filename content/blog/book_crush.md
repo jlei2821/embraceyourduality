@@ -1,10 +1,9 @@
 ---
 author: "Jenni Lei"
 categories: ["Books"]
-date: 2020-05-22T13:15:38-04:00
-description: ""
-featured: ""
-featuredalt: ""
+date: 2020-05-22
+featured: "books.jpg"
+featuredalt: "date"
 featuredpath: ""
 linktitle: ""
 title: "Quarantine Book Crush"
