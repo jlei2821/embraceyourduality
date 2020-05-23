@@ -27,8 +27,7 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, stumbleupon, pinterest, email
-  socialShare           = ["facebook", "linkedin",
-                          "pinterest", "email"]
+  socialShare           = ["facebook", "linkedin", "email"]
 
   [params.meta]
     # Sets the meta tag description
@@ -152,7 +151,6 @@ disableLanguages        = [""]
   # Social Networks
   facebook              = "https://www.facebook.com/jenni.lei.7"
   instagram             = "scorpaq"
-  pinterest             = "scorpaq"
   # Email
   email                 = "j.lei2821@gmail.com"
 
