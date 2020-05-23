@@ -6,7 +6,7 @@ featured: "books.png"
 featuredalt: ""
 featuredpath: ""
 linktitle: ""
-title: "My Favorite Quarantine Reads"
+title: "Favorite Quarantine Reads"
 type: "post"
 ---
 
@@ -44,3 +44,11 @@ One of the reputations about the Post that Katharine Graham had taken great prid
 A story that tells of the many morals that we may have been repetitively told in our lifetimes: integrity, equality, genuinity, courage etc. More often than not, we may not even realize that our reasonings and true values are hindered by prejudice, both from other people as well as ourselves. How to make discreet judgement as an independent thinker when living in a society that rejects unpredictability and scorns at differences? This is a question answered by Atticus Finch, a father and a lawyer in the book who defends an unjustly accused black man in a small town of 1937 Alabama. Many themes were discussed in this book: equality, freedom of speech, self, class, courage, and prejudice etc. I’m sure you can learn something new each time you revisit this book in different stages of your life. I chose to note independent thinking as a reminder to myself to not lose sight of genuinity. We live in a time blessed with a multitude of information sources, but at the same time that leads us more exposed to misleading content in publicity. We can benefit  from the rich resources of information around us by first training ourselves to be more rational thinkers. As the kids in the book were taught to do, we should constantly remind ourselves “climb into others’ skin and walk around in it”. By developing the awareness to think from other people’s perspectives, we free ourselves of restricted views and expand our scope of learning. 
 
 ---
+
+### *Youth* by J.M. Coetzee
+
+
+
+---
+
+### *Just Kids* by Patti Smith
