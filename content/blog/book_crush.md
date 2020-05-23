@@ -3,10 +3,9 @@ author: "Jenni Lei"
 categories: ["Books"]
 date: 2020-05-22
 featured: "books.png"
-featuredalt: ""
 featuredpath: ""
-linktitle: ""
 title: "Favorite Quarantine Reads"
+linktitle: ""
 type: "post"
 ---
 
