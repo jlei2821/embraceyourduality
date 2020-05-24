@@ -4,7 +4,7 @@ categories: ["Books"]
 date: 2020-05-22
 featured: "books.png"
 featuredpath: "date"
-title: "Favorite Quarantine Reads"
+title: "Favorite Quarantine Reads: Part 1"
 linktitle: "jfhkf"
 type: "post"
 ---
@@ -15,7 +15,7 @@ As I began working from home in sweats and maintaining most of my daily activiti
 
 ### *Personal History* by Katharine Graham
 
-Personal History is an autobiography by former Washington Post president and publisher Katharine Graham. Once titled one of the most powerful women in the United States, Graham took over the newspaper after the death of her husband, Phil Graham, and presided during some of the company’s most controversial times, including publishing of the Pentagon Papers and later the Watergate Scandal. In her book, Katharine Graham recalled the struggles of transitioning from the role of a housewife to the CEO of a mid-sized newspaper company at the time. She later described the experience as “...put one foot in front of the other, shut my eyes, and step off the edge. The surprise was that I landed on my feet.” Picking up from Ms. Graham, I outlined a few simple yet important lessons that are applicable to myself as well as many other young professionals in the business world. 
+Personal History is an autobiography by former Washington Post president and publisher Katharine Graham. Once titled one of the most powerful women in the United States, Graham took over the newspaper after the death of her husband, Phil Graham, and presided during some of the company’s most controversial times, including publishing of the Pentagon Papers and later the Watergate Scandal. In her book, Katharine Graham recalled the struggles of transitioning from the role of a housewife to the CEO of a mid-sized newspaper company at the time. She later described the experience as *“...put one foot in front of the other, shut my eyes, and step off the edge. The surprise was that I landed on my feet.”* Picking up from Ms. Graham, I outlined a few simple yet important lessons that are applicable to myself as well as many other young professionals in the business world. 
 
 
 ##### ✨ Know your weaknesses ✨
@@ -25,12 +25,12 @@ Stare your weaknesses directly in the face. As the old saying reminds us that �
 
 ##### ✨ Build your network ✨
 
-An introvert by nature, I was extremely uncomfortable in social circumstances and generally regarded the “desire to please” in a negative fashion, partly excused by the new millennial “be yourself” type slogan. Now, learning to be yourself is a beautiful thing, but my resolve to approach it by placing blame on my innate quality is not. I was essentially ashamed of my own tendency of wanting to please. The prime example that Ms. Graham has shown me in her memoir was to embrace that part of my character and put that to use especially in social circumstances. For her, “it was better to be talking to people who hated us or disapproved of us than not - and that good old-fashioned encumbrance of mine, the desire to please.” Here, Graham was referring to maintaining good relations with people who had openly bashed her or the company during the Watergate scandal. The amicable relationships we form will become a part of our asset, an advantage which I’m sure has been proven many times (like in The Tipping Point by Malcolm Gladwell). 
+An introvert by nature, I was extremely uncomfortable in social circumstances and generally regarded the term “desire to please” in a negative fashion, partly excused by the new millennial “be yourself” type slogan. Now, learning to be yourself is a beautiful thing, but my resolve to approach it by placing blame on my innate quality is not. I was essentially ashamed of my own tendency of wanting to please. The prime example that Ms. Graham has shown me in her memoir was to embrace that part of my character and put that to use especially in social circumstances. She said, *“it was better to be talking to people who hated us or disapproved of us than not - and that good old-fashioned encumbrance of mine, the desire to please.”* Here, Graham was referring to maintaining good relations with people who had openly bashed her or the company during the Watergate scandal. The amicable relationships we form will become a part of our asset, an advantage which I’m sure has been proven many times (like in The Tipping Point by Malcolm Gladwell). 
 
 
 ##### ✨ Recognize your strengths ✨
 
-Knowing your weaknesses is not to say we should dwell on them, because part of knowing ourselves includes knowing what you are good at. Sometimes, what we view as insignificant accomplishments may have a large impact. For example, a witty email might brighten up a client’s day, or an additional proofread might save our team from a major error. Recognizing what we did well boosts our self confidence and gives us the motivation to be even better. As evident throughout her book, Graham possessed the great quality of empathy and excelled in writing. From early on, she had formed a habit of answering letters from readers which helped in shaping the reputation of her company, for she believed that, “we in the media are all ombudsmen, trying to lessen the feeling some people have that they are helpless and without hope of a hearing.” 
+Knowing your weaknesses is not to say we should dwell on them, because part of knowing ourselves includes knowing what you are good at. Sometimes, what we view as insignificant accomplishments may have a large impact. For example, a witty email might brighten up a client’s day, or an additional proofread might save our team from a major error. Recognizing what we did well boosts our self confidence and gives us the motivation to be even better. As evident throughout her book, Graham possessed the great quality of empathy and excelled in writing. From early on, she had formed a habit of answering letters from readers which helped in shaping the reputation of her company, for she believed that, *“we in the media are all ombudsmen, trying to lessen the feeling some people have that they are helpless and without hope of a hearing.”* 
 
 ##### ✨ Know your core values and what you want ✨
 
@@ -40,14 +40,36 @@ One of the reputations about the Post that Katharine Graham had taken great prid
 
 ### *To Kill A Mockingbird* by Harper Lee
 
-A story that tells of the many morals that we may have been repetitively told in our lifetimes: integrity, equality, genuinity, courage etc. More often than not, we may not even realize that our reasonings and true values are hindered by prejudice, both from other people as well as ourselves. How to make discreet judgement as an independent thinker when living in a society that rejects unpredictability and scorns at differences? This is a question answered by Atticus Finch, a father and a lawyer in the book who defends an unjustly accused black man in a small town of 1937 Alabama. Many themes were discussed in this book: equality, freedom of speech, self, class, courage, and prejudice etc. I’m sure you can learn something new each time you revisit this book in different stages of your life. I chose to note independent thinking as a reminder to myself to not lose sight of genuinity. We live in a time blessed with a multitude of information sources, but at the same time that leads us more exposed to misleading content in publicity. We can benefit  from the rich resources of information around us by first training ourselves to be more rational thinkers. As the kids in the book were taught to do, we should constantly remind ourselves “climb into others’ skin and walk around in it”. By developing the awareness to think from other people’s perspectives, we free ourselves of restricted views and expand our scope of learning. 
+A story that tells of the many morals that we may have been repetitively told in our lifetimes: integrity, equality, genuinity, courage etc. More often than not, we may not even realize that our reasonings and true values are hindered by prejudice, both from other people as well as ourselves. How to make discreet judgement as an independent thinker when living in a society that rejects unpredictability and scorns at differences? This is a question answered by Atticus Finch, a father and a lawyer in the book who defends an unjustly accused black man in a small town of 1937 Alabama. Many themes were discussed in this book: equality, freedom of speech, self, class, courage, and prejudice etc. I’m sure you can learn something new each time you revisit this book in different stages of your life. I chose to note independent thinking as a reminder to myself to not lose sight of genuinity. We live in a time blessed with a multitude of information sources, but at the same time that leads us more exposed to misleading content in publicity. We can benefit  from the rich resources of information around us by first training ourselves to be more rational thinkers. As the kids in the book were taught to do, we should constantly remind ourselves to *“climb into others’ skin and walk around in it”*. By developing the awareness to think from other people’s perspectives, we free ourselves of restricted views and expand our scope of learning. 
 
 ---
 
 ### *Youth* by J.M. Coetzee
 
+*“Poetry is not a turning loose of emotion, but an escape from emotion; it is not the expression of personality, but an escape from personality. But, of course, only those who have personality and emotions know what it means to want to escape from these things.”* -- T.S. Eliot
 
+This is the story of a provincial youth who left his hometown of Cape Town and came to 1960s London to be a poet, but instead found himself settling for a programming job and sinking into a cycle of disappointment, confusion, and self-searching. An idealist by nature, the narrator was deeply aggrieved by his mundane and sluggish life and sought cure in love and literary ambitions. He did not care to know his own mind because *“to know one’s own mind too well spells the death of creative spark”*. He believed that *“the beloved, the destined one, will see at once through the odd and even dull exterior he presents to the fire that burns within him”*. He sought examples in writers before him who succeeded in finding their places in the metropolis, but was only disappointed by the reality he faced as he was overwhelmed by his own listlessness. 
+
+The book ended without clear implications of the narrator’s fulfillment, just like we never have a concrete solution in our exploration of human nature. Sometimes, what we are looking for may be embedded in the process of searching. Fortunately for the narrator, towards the end we can catch a glimpse of his realization resulting from self introspection and growth, that *“the most brutal way is to say that he’s afraid: afraid of writing and afraid of women”*, and that part of growing up entails honesty to oneself. 
 
 ---
 
 ### *Just Kids* by Patti Smith
+
+There are people who spend their lifetimes trying to communicate with themselves to figure out what they want. There are also people who, from an early age, know precisely what they want and just follow their hearts’ content. Patti Smith, the famous 70s punk icon, belongs to the latter category. Just Kids is her memoir written to recount not only her personal success story, but also the relationship between her and long-time friend Robert Mapplethorpe. Through her story, I could picture a brave young girl, thriving with energy and passion, who is carefree yet self driven to pursue her dream, the type of role model that young independent girls aspire to be. To get a sense of her poetic writing, here are some of my favorite quotes highlighted in the book:
+
+✨ *“In the war of magic and religion, is magic ultimately the victor? Perhaps priest and magician were once one, but the priest, learning humility in the face of God, discarded the spell for prayer.”*
+
+✨ *“I craved honesty, yet found dishonesty in myself. Why commit to art? For self-realization, or for itself? It seemed indulgent to add to the glut unless one offered illumination.”*
+
+✨ *“...by his example, I understood that what matters is the work: the string of words propelled by God becoming a poem, the weave of color and graphite scrawled upon the sheet that magnifies His motion. To achieve within the work a perfect balance of faith and execution. From this state of mind comes a light, life-charged.”*
+
+✨ *“Where does it all lead? What will become of us? These were our young questions, and young answers were revealed. It leads to each other. We become ourselves.”*
+
+✨ *“The goodwill that surrounded us was proof that Fate was conspiring to help their enthusiastic children.”*
+
+✨ *“It is said that children do not distinguish between living and inanimate objects; I believe they do. A child imparts a doll or tin soldiers with magical life-breath. The artist animates his work as the child his toys.”*
+
+✨ *“I learned from him that often contradiction is the clearest way to truth.”*
+
+✨ *“‘Jesus died for somebody’s sins but not mine.’ I had written the line some years before as a declaration of existence, as a vow to take responsibility for my own actions. Christ was a man worth to rebel against, for he was rebellion himself.”*
