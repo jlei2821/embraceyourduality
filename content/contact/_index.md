@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 type = "contact"
-netlify = true
+netlify = false
 emailservice = "formspree.io/xvowkowd"
 contactname = "Your name"
 contactemail = "Your email"
