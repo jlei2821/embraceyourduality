@@ -2,9 +2,9 @@
 title = "Contact"
 type = "contact"
 netlify = true
-emailservice = "j.lei2821@gmail.com"
+emailservice = "formspree.io/xvowkowd"
 contactname = "Your name"
-contactemail = "Yhjh"
+contactemail = "Your email"
 contactsubject = "Subject"
 contactmessage = "Your Message"
 contactlang = "en"
