@@ -42,9 +42,9 @@ The point of speaking to ourselves is to ask what we can do to escape from being
 I believe the solo scenes could be the inner state depictions of different individuals, or they could represent the many different facets of one person. 
 
 Let’s go back to the message of love BTS is trying to convey to us. If you’re not true to yourself, it’s like living in a dream you have built to protect yourself from harm. It’s fake and easily shattered by outer forces. In the beginning of Fake Love, this idea was introduced to us through my personal favorite lines:<br/>
-<p class="tab">“I wish love was as perfect as love itself
+<p class="tab">🎵 “I wish love was as perfect as love itself
 <br/>I wish all my weaknesses could be hidden
-<br/>I grew a flower that can’t be bloomed in a dream that won’t come true.”</p>
+<br/>I grew a flower that can’t be bloomed in a dream that won’t come true.” 🎵</p>
  <i>Slightly side-tracked but that guitar backing in the opening really did its job as an attention grabber. It gave me goosebumps when I first heard it.</i>
 
  In other words, even if we try to plant the seed of love in a dream, it will never blossom because the dream is groundless and will never come true. As perfect as the idea of love may seem, true love is built upon genuine realization and acceptance of self, even though the process of which may be accompanied by a great deal of suffering. We may feel pained due to many forms of inner struggle, such as idealism vs. realism, submission vs. defiance, or association vs. isolation. However, we learn and become emotionally stronger from the process. We must learn to love ourselves before we can love others.

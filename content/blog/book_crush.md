@@ -13,7 +13,7 @@ As I began working from home in sweats and maintaining most of my daily activiti
 
 ---
 
-### *Personal History* by Katharine Graham
+### 1. *Personal History* by Katharine Graham
 
 Personal History is an autobiography by former Washington Post president and publisher Katharine Graham. Once titled one of the most powerful women in the United States, Graham took over the newspaper after the death of her husband, Phil Graham, and presided during some of the company’s most controversial times, including publishing of the Pentagon Papers and later the Watergate Scandal. In her book, Katharine Graham recalled the struggles of transitioning from the role of a housewife to the CEO of a mid-sized newspaper company at the time. She later described the experience as *“...put one foot in front of the other, shut my eyes, and step off the edge. The surprise was that I landed on my feet.”* Picking up from Ms. Graham, I outlined a few simple yet important lessons that are applicable to myself as well as many other young professionals in the business world. 
 
@@ -38,13 +38,13 @@ One of the reputations about the Post that Katharine Graham had taken great prid
 
 ---
 
-### *To Kill A Mockingbird* by Harper Lee
+### 2. *To Kill A Mockingbird* by Harper Lee
 
 A story that tells of the many morals that we may have been repetitively told in our lifetimes: integrity, equality, genuinity, courage etc. More often than not, we may not even realize that our reasonings and true values are hindered by prejudice, both from other people as well as ourselves. How to make discreet judgement as an independent thinker when living in a society that rejects unpredictability and scorns at differences? This is a question answered by Atticus Finch, a father and a lawyer in the book who defends an unjustly accused black man in a small town of 1937 Alabama. Many themes were discussed in this book: equality, freedom of speech, self, class, courage, and prejudice etc. I’m sure you can learn something new each time you revisit this book in different stages of your life. I chose to note independent thinking as a reminder to myself to not lose sight of genuinity. We live in a time blessed with a multitude of information sources, but at the same time that leads us more exposed to misleading content in publicity. We can benefit  from the rich resources of information around us by first training ourselves to be more rational thinkers. As the kids in the book were taught to do, we should constantly remind ourselves to *“climb into others’ skin and walk around in it”*. By developing the awareness to think from other people’s perspectives, we free ourselves of restricted views and expand our scope of learning. 
 
 ---
 
-### *Youth* by J.M. Coetzee
+### 3. *Youth* by J.M. Coetzee
 
 *“Poetry is not a turning loose of emotion, but an escape from emotion; it is not the expression of personality, but an escape from personality. But, of course, only those who have personality and emotions know what it means to want to escape from these things.”* -- T.S. Eliot
 
@@ -54,7 +54,7 @@ The book ended without clear implications of the narrator’s fulfillment, just 
 
 ---
 
-### *Just Kids* by Patti Smith
+### 4. *Just Kids* by Patti Smith
 
 There are people who spend their lifetimes trying to communicate with themselves to figure out what they want. There are also people who, from an early age, know precisely what they want and just follow their hearts’ content. Patti Smith, the famous 70s punk icon, belongs to the latter category. Just Kids is her memoir written to recount not only her personal success story, but also the relationship between her and long-time friend Robert Mapplethorpe. Through her story, I could picture a brave young girl, thriving with energy and passion, who is carefree yet self driven to pursue her dream, the type of role model that young independent girls aspire to be. To get a sense of her poetic writing, here are some of my favorite quotes highlighted in the book:
 
