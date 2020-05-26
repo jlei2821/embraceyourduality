@@ -1,6 +1,7 @@
 ---
 author: "Jenni Lei"
 categories: ["Books"]
+tags: ["inspirational", "books", "quarantine fun", "quotes", "growth", "self"]
 date: 2020-05-22
 featured: "books.png"
 featuredpath: "date"

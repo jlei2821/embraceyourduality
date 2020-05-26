@@ -1,6 +1,7 @@
 ---
 author: "Jenni Lei"
-categories: [Visual Analytics, R]
+categories: ["Analytics"]
+tags: ["Visual Analytics", "R", "shiny App"]
 date: 2019-06-06
 title: "Deploy Social Network App using Shiny"
 featured: "social.png"
