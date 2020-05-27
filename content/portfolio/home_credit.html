@@ -439,7 +439,7 @@ rm(prev); gc()
 ```{r}
 #JOIN NORMALIZED TABLES
 tr_te <- app %>% 
-  #select(-TARGET) %>% 
+  select(-TARGET) %>% 
   left_join(sum_bureau, by = "SK_ID_CURR") %>% 
   left_join(sum_cc_balance, by = "SK_ID_CURR") %>% 
   left_join(sum_payments, by = "SK_ID_CURR") %>% 
@@ -467,22 +467,24 @@ We ran a total of three models on the full dataset: logistic regression, LightGB
 You may elect to run models on h2o or write codes to run each model separately. Below is how to build a XGBoost in code:
 <pre>
 <code>
-
+    library(dplyr)
+    library(tidyr)
+    library(readr)
     library(haven)
     library(xgboost)
     library(caret)
 
     #import final dataset previously saved
-    df <- fread("cleaned_fulltable.csv")
+    df <- read.csv(file="cleaned_fulltable.csv")
 
     #create index column tri
-    tri <- 1:nrow(app)
-    y <- app$TARGET
+    tri <- 1:nrow(df)
+    y <- df$TARGET
 
     df <- df %>% 
         select(-TARGET, -SK_ID_CURR)
 
-    df=df %>% 
+    df <- df %>% 
         data.matrix()
 
     #split data into train and test sets 
