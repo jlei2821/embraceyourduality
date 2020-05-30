@@ -145,11 +145,11 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "https://github.com/jlei2821"
+  github                = "jlei2821"
   # Professional/Business Oriented Communities
   linkedin              = "jiamin-jenni-lei-663579a5"
   # Social Networks
-  facebook              = "https://www.facebook.com/jenni.lei.7"
+  facebook              = "jenni.lei.7"
   instagram             = "scorpaq"
   # Email
   email                 = "j.lei2821@gmail.com"
