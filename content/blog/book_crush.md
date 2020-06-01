@@ -10,7 +10,7 @@ linktitle: "jfhkf"
 type: "post"
 ---
 
-As I began working from home in sweats and maintaining most of my daily activities within walkable distances, I’ve suddenly found myself with an influx of free time that I turned my attention to a tall stack of long ago purchased, unopened books on my shelf. Turns out that I was keen enough to pick out a varied list of fun and inspirational books but never ended up reading them, for problems with motivation and procrastination that may be. Reading has proved to be a wonderful way to steer through this difficult time as most of us are stuck at home, feeling powerless in the face of a depressing news cycle. Here, I am writing this post to share some insightful ideas and notes that I have picked up from my quarantine reading times. 
+As I began working from home in sweats and maintaining most of my daily activities within walkable distances, I’ve suddenly found myself with an influx of free time that I turned my attention to a tall stack of long ago purchased, unopened books on my shelf. Turns out that I was keen enough to pick out a varied list of fun and inspirational books but never ended up reading them, for problems with motivation and procrastination that may be. Reading has proven to be a wonderful way to steer through this difficult time as most of us are stuck at home, feeling powerless in the face of a depressing news cycle. Here, I am writing this post to share some insightful ideas and notes that I have picked up from my quarantine reading times. 
 
 ---
 
